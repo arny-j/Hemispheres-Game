@@ -82,6 +82,36 @@ The main narrative and core gameplay systems have been implemented and tested, i
 
 Future development may include expanded storytelling, additional NPC interactions, more environmental detail, further puzzles, inventory functionality, and audio.
 
+## Asset Credits and Licensing
+
+Hemispheres was developed using a combination of original work and third-party development tools and assets.
+
+### Environment Assets and Textures
+
+Environment models and textures were sourced from **LowlyPoly**, available through CGTrader.
+
+**Creator:** LowlyPoly  
+**Source:** [LowlyPoly — Free 3D Models on CGTrader](https://www.cgtrader.com/3d-models?author=lowlypoly&free=1)
+
+The assets were obtained from freely available listings, and their licensing conditions were reviewed before inclusion in the project.
+
+Credit for these original assets remains with their respective creator. Their inclusion in Hemispheres does not transfer ownership or grant permission to redistribute the assets independently of the game.
+
+### Development Tools
+
+The following tools and resources were used during development:
+
+- **Godot Engine** — Game development and scripting  
+  https://godotengine.org/
+- **Terrain3D** — 3D terrain creation and editing  
+  https://github.com/TokisanGames/Terrain3D
+- **Blender** — 3D model preparation and editing  
+  https://www.blender.org/
+- **Meshy AI** — AI-assisted character and model creation  
+  https://www.meshy.ai/
+
+Third-party tools and assets remain subject to their respective licences and terms of use.
+
 ## Developer
 
 **Jack Arnold**
